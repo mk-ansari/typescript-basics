@@ -1,4 +1,3 @@
-"use strict";
 // function add(a: number | string, b: number | string, operation:"add" |  "concat") {
 //     if (operation === "add") {
 //       return (+a) + (+b);

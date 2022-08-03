@@ -1,4 +1,3 @@
-"use strict";
 // union type
 // let data: string | number | boolean | [] | {}  = {name:"kamal"};
 // console.log(data);

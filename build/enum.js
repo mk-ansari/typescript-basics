@@ -1,4 +1,3 @@
-"use strict";
 // enum Role {
 //   ADMIN,
 //   MANAGER,

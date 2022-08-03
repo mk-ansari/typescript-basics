@@ -1,4 +1,3 @@
-"use strict";
 // never function type.
 // function callApi(msg, code):never {
 //     throw {msg, code}

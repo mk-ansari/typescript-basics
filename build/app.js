@@ -1,4 +1,3 @@
-"use strict";
 // console.log("Hello World.");
 // main three core variables: number, string, boolean
 // const num:number = 10;

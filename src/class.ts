@@ -99,5 +99,5 @@ class Users extends CreateAccount{
 const u1 = new Users();
 
 console.log(u1.addUser("kamal"));
-console.log(u1.makeEmail("kamal"));
+// console.log(u1.makeEmail("kamal"));
 
